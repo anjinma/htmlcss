@@ -1,6 +1,12 @@
 body{
-    background-color: peru;
+    background-color: #F0F0DF;
 }
 h1{
-    color: white;
+    color: #3F5866;
+}
+.form, .greeting{
+    display: none;
+}
+.showing{
+    display: block;
 }
